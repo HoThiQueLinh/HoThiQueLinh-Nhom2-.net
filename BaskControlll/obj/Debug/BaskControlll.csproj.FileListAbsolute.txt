@@ -1,0 +1,11 @@
+C:\Users\ADMINIS\source\repos\OOP\BaskControlll\BaskControlll\bin\Debug\BaskControlll.exe.config
+C:\Users\ADMINIS\source\repos\OOP\BaskControlll\BaskControlll\bin\Debug\BaskControlll.exe
+C:\Users\ADMINIS\source\repos\OOP\BaskControlll\BaskControlll\bin\Debug\BaskControlll.pdb
+C:\Users\ADMINIS\source\repos\OOP\BaskControlll\BaskControlll\obj\Debug\BaskControlll.csproj.AssemblyReference.cache
+C:\Users\ADMINIS\source\repos\OOP\BaskControlll\BaskControlll\obj\Debug\BaskControlll.frmMathBasic.resources
+C:\Users\ADMINIS\source\repos\OOP\BaskControlll\BaskControlll\obj\Debug\BaskControlll.Properties.Resources.resources
+C:\Users\ADMINIS\source\repos\OOP\BaskControlll\BaskControlll\obj\Debug\BaskControlll.csproj.GenerateResource.cache
+C:\Users\ADMINIS\source\repos\OOP\BaskControlll\BaskControlll\obj\Debug\BaskControlll.csproj.CoreCompileInputs.cache
+C:\Users\ADMINIS\source\repos\OOP\BaskControlll\BaskControlll\obj\Debug\BaskControlll.exe
+C:\Users\ADMINIS\source\repos\OOP\BaskControlll\BaskControlll\obj\Debug\BaskControlll.pdb
+C:\Users\ADMINIS\source\repos\OOP\BaskControlll\BaskControlll\obj\Debug\BaskControlll.FormThongTin.resources
